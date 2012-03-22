@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3977
+
+This minimal commenting implementation found at github.com/MarcWeber/vim-addon-commenting just does what I think everybody wants:
+comment, uncomment, automatically detects filetype (if either &commentstring or &comments is set correctly).
+And it is aware of cursor column. What else do you need (..).
+
+syntax (sublanguage) based commenting? Try tcomment intsead
